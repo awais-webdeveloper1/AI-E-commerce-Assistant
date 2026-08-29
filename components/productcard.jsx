@@ -11,7 +11,7 @@ export default function ProductCard() {
                 </div>
 
                 {/* Product Cards */}
-                <div className="grid grid-cols-4 gap-5">
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5">
 
                     {/* Card 1 */}
                     <div className="border border-gray-300 rounded-2xl overflow-hidden">
