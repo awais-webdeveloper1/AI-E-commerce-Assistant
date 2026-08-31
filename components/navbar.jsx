@@ -32,7 +32,7 @@ export default function NavBar() {
             </div>
             <div className="hidden lg:flex items-center gap-7">
                 <div>
-                    <Link href="/">
+                    <Link href="/shoppingcart">
                         <img
                             src="/icon-container.png"
                             alt=""
